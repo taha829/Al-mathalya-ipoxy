@@ -16,7 +16,7 @@ const Footer = () => {
               <div className="w-10 h-10 rounded-lg gradient-primary flex items-center justify-center">
                 <span className="text-lg font-bold text-primary-foreground">IE</span>
               </div>
-              <h3 className="text-lg font-bold">The Ideal Epoxy</h3>
+              <h3 className="text-lg font-bold">  AL-MATHALYA IPOXY</h3>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
               {t("footer.about")}

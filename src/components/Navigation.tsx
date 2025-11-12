@@ -9,7 +9,6 @@ import { useTranslation } from "react-i18next";
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
-
   const { t } = useTranslation();
 
   const navLinks = [
@@ -29,12 +28,14 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3">
-            <div className="w-12 h-12 rounded-lg gradient-primary flex items-center justify-center">
-              <span className="text-2xl font-bold text-primary-foreground">IE</span>
-            </div>
-            <div className="hidden md:block">
-              <h1 className="text-xl font-bold text-foreground">The Ideal Epoxy</h1>
-              <p className="text-xs text-muted-foreground">Professional Solutions</p>
+            <img
+              src="/logo.png"
+              alt="شعار شركة المثالية للإيبوكسي"
+              className="w-12 h-12 rounded-md object-contain"
+            />
+            <div className="hidden md:block text-right">
+              <h1 className="text-xl font-bold text-foreground">شركة المثالية للإيبوكسي</h1>
+              <p className="text-xs text-muted-foreground">حلول إيبوكسي وأعمال Gemstone</p>
             </div>
           </Link>
 
@@ -65,7 +66,11 @@ const Navigation = () => {
               asChild
               className="gradient-primary text-primary-foreground font-semibold hover:opacity-90 transition-opacity"
             >
-              <a href="https://wa.me/962797265521?text=مرحبا%20المتكاملة%20لاعمال%20الايبوكسي" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://wa.me/962797265521?text=مرحبا%20شركة%20المثالية%20لاعمال%20الايبوكسي"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 {t("cta.getQuote")}
               </a>
             </Button>
@@ -84,7 +89,7 @@ const Navigation = () => {
         {/* Mobile Menu */}
         {isOpen && (
           <div className="lg:hidden py-4 border-t border-border animate-fade-in">
-              <div className="flex flex-col space-y-2">
+            <div className="flex flex-col space-y-2">
               {navLinks.map((link) => (
                 <Link
                   key={link.path}
@@ -100,14 +105,18 @@ const Navigation = () => {
                   {link.name}
                 </Link>
               ))}
-                <div className="px-4 pt-2">
-                  <LanguageToggle />
-                </div>
+              <div className="px-4 pt-2">
+                <LanguageToggle />
+              </div>
               <Button
                 asChild
                 className="gradient-primary text-primary-foreground font-semibold mt-4"
               >
-                <a href="https://wa.me/962797265521?text=مرحبا%20المتكاملة%20لاعمال%20الايبوكسي" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://wa.me/962797265521?text=مرحبا%20شركة%20المثالية%20لاعمال%20الايبوكسي"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   {t("cta.getQuote")}
                 </a>
               </Button>

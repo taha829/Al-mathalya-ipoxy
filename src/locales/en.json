@@ -1,0 +1,223 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "booking": "Book Visit",
+    "contact": "Contact"
+  },
+  "cta": {
+    "getQuote": "Get Free Quote",
+    "bookVisit": "Book Free Site Visit",
+    "contactWhatsApp": "Contact on WhatsApp",
+    "viewProjects": "View Our Projects",
+    "viewAllServices": "View All Services",
+    "scheduleConsultation": "Schedule Free Consultation"
+  },
+  "lang": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "home": {
+    "title": "The Ideal Epoxy Company",
+    "subtitle": "Specialized & Professional in Epoxy Works and Modern Gemstone Materials",
+    "tagline": "Transforming Surfaces with Art, Precision, and Quality",
+    "features": {
+      "quality": {
+        "title": "Premium Quality",
+        "description": "We use only the finest materials and professional techniques for lasting results"
+      },
+      "team": {
+        "title": "Expert Team",
+        "description": "Our skilled professionals bring years of experience to every project"
+      },
+      "design": {
+        "title": "Modern Designs",
+        "description": "Cutting-edge designs and finishes that transform your spaces"
+      }
+    },
+    "servicesTitle": "Our Signature Services",
+    "servicesSubtitle": "Complete epoxy and gemstone finishing solutions for every surface",
+    "service3d": {
+      "title": "3D Epoxy Designs",
+      "description": "Unique 3D visual floors that turn spaces into works of art with stunning depth and realism",
+      "feature1": "Custom artistic designs",
+      "feature2": "Photorealistic depth effects",
+      "feature3": "Durable crystal-clear finish"
+    },
+    "serviceGemstone": {
+      "title": "Gemstone Plaster (Jimstone)",
+      "description": "The latest decorative coating technology for luxury walls and floors with elegant sparkle",
+      "feature1": "Premium decorative finish",
+      "feature2": "Smooth polished surface",
+      "feature3": "Modern luxury aesthetic"
+    },
+    "ctaTitle": "Ready to Transform Your Space?",
+    "ctaDescription": "Book your free site visit today and let our experts help you choose the perfect solution"
+  },
+  "about": {
+    "title": "Who We Are",
+    "subtitle": "Your trusted partner in professional epoxy and gemstone solutions",
+    "intro1": "The Ideal Epoxy Company",
+    "intro2": "is a specialized firm in all kinds of epoxy works and modern gemstone materials for interior and exterior surfaces.",
+    "intro3": "Our professional team combines innovation, durability, and artistic touch to deliver premium flooring and wall finishes for residential, commercial, and industrial spaces across Jordan.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Delivering excellence through modern materials and craftsmanship, ensuring every project exceeds expectations with quality and precision."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading epoxy and gemstone solutions provider in Jordan, setting the standard for innovation and quality in surface finishing."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": "Quality",
+      "trust": "Trust",
+      "innovation": "Innovation",
+      "professionalism": "Professionalism"
+    },
+    "whyChoose": "Why Choose The Ideal Epoxy?",
+    "reasons": [
+      {
+        "title": "Expert Craftsmanship",
+        "description": "Years of specialized experience in epoxy and gemstone applications"
+      },
+      {
+        "title": "Premium Materials",
+        "description": "We use only the highest quality materials for long-lasting results"
+      },
+      {
+        "title": "Custom Solutions",
+        "description": "Tailored designs to match your unique style and requirements"
+      },
+      {
+        "title": "Professional Team",
+        "description": "Skilled technicians dedicated to perfection in every detail"
+      },
+      {
+        "title": "Timely Delivery",
+        "description": "We respect your time and complete projects on schedule"
+      },
+      {
+        "title": "After-Sales Support",
+        "description": "Comprehensive warranty and ongoing customer care"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch with Us",
+    "subtitle": "Have questions? We're here to help. Reach out to us through any of the channels below",
+    "location": {
+      "title": "Our Location",
+      "address": "Amman – Marka, opposite Al-Mouwasat Hospital",
+      "mapLink": "View on Google Maps →"
+    },
+    "phone": {
+      "title": "Phone",
+      "number": "0797265521",
+      "hours": "Monday - Saturday: 8:00 AM - 6:00 PM"
+    },
+    "whatsapp": {
+      "title": "WhatsApp",
+      "message": "Chat with us instantly",
+      "note": "Fast response guaranteed"
+    },
+    "email": {
+      "title": "Email",
+      "address": "info@idealepoxy.com",
+      "response": "We'll respond within 24 hours"
+    },
+    "formTitle": "Send Us a Message",
+    "form": {
+      "name": "Your Name *",
+      "namePlaceholder": "Enter your name",
+      "email": "Your Email *",
+      "emailPlaceholder": "your.email@example.com",
+      "message": "Your Message *",
+      "messagePlaceholder": "Tell us about your project or inquiry...",
+      "submit": "Send Message",
+      "success": "Message sent!",
+      "successDesc": "We'll get back to you as soon as possible."
+    }
+  },
+  "footer": {
+    "about": "Specialized & Professional in Epoxy Works and Modern Gemstone Materials. Transforming surfaces with art, precision, and quality.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "servicesList": {
+      "flooring": "Epoxy Flooring Systems",
+      "3d": "3D Epoxy Designs",
+      "countertops": "Epoxy Countertops & Tables",
+      "gemstone": "Gemstone Plaster (Jimstone)",
+      "industrial": "Industrial Epoxy Coatings"
+    },
+    "contactInfo": {
+      "address": "Amman – Marka, opposite Al-Mouwasat Hospital",
+      "phone": "0797265521",
+      "email": "info@idealepoxy.com"
+    },
+    "copyright": "Copyright © {year} The Ideal Epoxy Company – All Rights Reserved.",
+    "developed": "Developed with ❤️ for perfection in design."
+  },
+  "booking": {
+    "title": "Book Your Free Site Visit",
+    "subtitle": "Choose the service, location, and preferred date. Our team will contact you via WhatsApp to confirm your booking.",
+    "form": {
+      "name": "Full Name *",
+      "namePlaceholder": "Enter your full name",
+      "phone": "Phone Number *",
+      "phonePlaceholder": "+962",
+      "location": "Location / Address *",
+      "locationPlaceholder": "Enter project location",
+      "date": "Date *",
+      "time": "Preferred Time *",
+      "service": "Required Service *",
+      "selectService": "Select a service",
+      "notes": "Additional Notes",
+      "notesPlaceholder": "Add any additional notes about your project",
+      "submit": "Confirm Booking",
+      "success": "Booking confirmed!",
+      "successDesc": "Your booking number is"
+    },
+    "services": {
+      "flooring": "Epoxy Flooring Systems",
+      "3d": "3D Epoxy Designs",
+      "countertops": "Epoxy Countertops & Tables",
+      "gemstone": "Gemstone Plaster (Jimstone)",
+      "industrial": "Industrial Epoxy Coatings",
+      "tank": "Tank & Water Tank Insulation",
+      "wellPool": "Well & Pool Insulation",
+      "floorPlanning": "Floor Planning (Sports, Garages, Factories)"
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "Your request has been received successfully.",
+      "bookingNumber": "Your Booking Number:",
+      "confirmation": "Welcome to The Ideal Epoxy Company! Our team will contact you on WhatsApp shortly to confirm your free site visit.",
+      "bookAgain": "Book Another Visit"
+    }
+  },
+  "projects": {
+    "title": "Our Projects Gallery",
+    "subtitle": "Take a look at some of our signature epoxy and gemstone works across Jordan",
+    "type": "Type",
+    "location": "Location",
+    "materials": "Materials Used",
+    "clientReview": "Client Review"
+  },
+  "services": {
+    "title": "Our Professional Services",
+    "subtitle": "We provide complete epoxy and gemstone finishing solutions for every surface",
+    "keyFeatures": "Key Features:",
+    "pricing": {
+      "title": "Pricing Comparison & Packages",
+      "subtitle": "Choose the package that suits your area and needs",
+      "feature": "Feature",
+      "basic": "Basic Package",
+      "premium": "Premium Package",
+      "industrial": "Industrial Package"
+    }
+  }
+}
